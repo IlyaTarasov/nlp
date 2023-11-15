@@ -1,1 +1,1 @@
-Here you can find our corpus of fan fiction stories about Star Wars franchise. It is titled as project.ipynb. We gathered more than 150 short stories, implemented functioning search function, which allows searching word forms, lemmas and POS tags of interest for the user.
+Here you can find our corpus of fan fiction stories about Star Wars franchise. It is titled as project.ipynb. We gathered more than 150 short stories, implemented search function, which allows searching word forms, lemmas and POS tags of interest for the user.
